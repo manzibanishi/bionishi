@@ -1,8 +1,4 @@
 ## Manziba Nishi
-
-You can use the [editor on GitHub](https://github.com/manzibanishi/bionishi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 My research interest focuses on applying Machine learning, Natural Language Processing, Data Mining and Information Retrieval technique in Software Engineering domain.
 
 ### Markdown
