@@ -1,4 +1,4 @@
-## Manziba Nishi
+## Research Interest
 My research interest focuses on applying Machine learning, Natural Language Processing, Data Mining and Information Retrieval technique in Software Engineering domain.
 
 ### Markdown
